@@ -8,6 +8,7 @@ set(
     rdbuf.c
     rdcrc32.c
     rdfnv1a.c
+    rdallocator.c
     rdkafka.c
     rdkafka_assignor.c
     rdkafka_broker.c
